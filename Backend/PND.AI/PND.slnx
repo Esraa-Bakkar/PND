@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../PND.API/PND.API.csproj" Id="8c7ae84c-5167-4f99-a248-232ced6f4931" />
+  <Project Path="../PND.Application/PND.Application.csproj" Id="a4c426ef-cc53-4e09-a17c-9165a55aa9c6" />
+  <Project Path="../PND.Domain/PND.Domain.csproj" Id="9c256665-e616-4ec8-9e90-482d6635355f" />
+  <Project Path="../PND.Infrastructure/PND.Infrastructure.csproj" Id="e6869821-a9c5-426e-89fb-55409cafaff3" />
+  <Project Path="PND.AI/PND.AI.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="a6ba1251-00b4-4742-b979-e2bca4128cb2">
+    <Build Project="false" />
+  </Project>
+</Solution>

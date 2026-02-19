@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GP\\GP\\Backend\\PND.AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C426EF-CC53-4E09-A17C-9165A55AA9C6}|..\\PND.Application\\PND.Application.csproj|d:\\gp\\gp\\backend\\pnd.application\\pnd.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6869821-A9C5-426E-89FB-55409CAFAFF3}|..\\PND.Infrastructure\\PND.Infrastructure.csproj|d:\\gp\\gp\\backend\\pnd.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C426EF-CC53-4E09-A17C-9165A55AA9C6}|..\\PND.Application\\PND.Application.csproj|d:\\gp\\gp\\backend\\pnd.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C256665-E616-4EC8-9E90-482D6635355F}|..\\PND.Domain\\PND.Domain.csproj|d:\\gp\\gp\\backend\\pnd.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PND.Application",
+              "DocumentMoniker": "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj",
+              "RelativeDocumentMoniker": "..\\PND.Application\\PND.Application.csproj",
+              "ToolTip": "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj",
+              "RelativeToolTip": "..\\PND.Application\\PND.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:25:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GP\\GP\\Backend\\PND.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\PND.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\GP\\GP\\Backend\\PND.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\PND.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T20:23:39.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GP\\GP\\Backend\\PND.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\PND.Application\\Class1.cs",
+              "ToolTip": "D:\\GP\\GP\\Backend\\PND.Application\\Class1.cs",
+              "RelativeToolTip": "..\\PND.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T20:22:41.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GP\\GP\\Backend\\PND.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\PND.Domain\\Class1.cs",
+              "ToolTip": "D:\\GP\\GP\\Backend\\PND.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\PND.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T20:21:47.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
