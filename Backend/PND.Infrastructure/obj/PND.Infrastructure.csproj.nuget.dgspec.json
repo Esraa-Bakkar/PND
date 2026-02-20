@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GP\\GP\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj": {}
+    "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj": {
+    "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Application\\PND.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj",
+        "projectUniqueName": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Application\\PND.Application.csproj",
         "projectName": "PND.Application",
-        "projectPath": "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj",
-        "packagesPath": "C:\\Users\\Esraa Bakkar\\.nuget\\packages\\",
-        "outputPath": "D:\\GP\\GP\\Backend\\PND.Application\\obj\\",
+        "projectPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Application\\PND.Application.csproj",
+        "packagesPath": "C:\\Users\\HP Elite BOOK\\.nuget\\packages\\",
+        "outputPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Esraa Bakkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP Elite BOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj": {
-                "projectPath": "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj"
+              "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj": {
+                "projectPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj"
               }
             }
           }
@@ -347,20 +347,20 @@
         }
       }
     },
-    "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj": {
+    "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj",
+        "projectUniqueName": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj",
         "projectName": "PND.Domain",
-        "projectPath": "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj",
-        "packagesPath": "C:\\Users\\Esraa Bakkar\\.nuget\\packages\\",
-        "outputPath": "D:\\GP\\GP\\Backend\\PND.Domain\\obj\\",
+        "projectPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj",
+        "packagesPath": "C:\\Users\\HP Elite BOOK\\.nuget\\packages\\",
+        "outputPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Esraa Bakkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP Elite BOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -686,20 +686,20 @@
         }
       }
     },
-    "D:\\GP\\GP\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj": {
+    "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GP\\GP\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj",
+        "projectUniqueName": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj",
         "projectName": "PND.Infrastructure",
-        "projectPath": "D:\\GP\\GP\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Esraa Bakkar\\.nuget\\packages\\",
-        "outputPath": "D:\\GP\\GP\\Backend\\PND.Infrastructure\\obj\\",
+        "projectPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Infrastructure\\PND.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HP Elite BOOK\\.nuget\\packages\\",
+        "outputPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Esraa Bakkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP Elite BOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -714,11 +714,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj": {
-                "projectPath": "D:\\GP\\GP\\Backend\\PND.Application\\PND.Application.csproj"
+              "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Application\\PND.Application.csproj": {
+                "projectPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Application\\PND.Application.csproj"
               },
-              "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj": {
-                "projectPath": "D:\\GP\\GP\\Backend\\PND.Domain\\PND.Domain.csproj"
+              "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj": {
+                "projectPath": "D:\\ASU\\Real Projects\\PND\\PND\\Backend\\PND.Domain\\PND.Domain.csproj"
               }
             }
           }

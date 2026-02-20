@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="PND.AI/PND.AI.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="a6ba1251-00b4-4742-b979-e2bca4128cb2">
+    <Build Project="false" />
+  </Project>
+  <Project Path="PND.API/PND.API.csproj" />
+  <Project Path="PND.Application/PND.Application.csproj" />
+  <Project Path="PND.Domain/PND.Domain.csproj" />
+  <Project Path="PND.Infrastructure/PND.Infrastructure.csproj" />
+</Solution>
