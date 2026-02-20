@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PND.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d9065c21e6ae38d507bcf2c42b51062d314f86")]
 [assembly: System.Reflection.AssemblyProductAttribute("PND.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PND.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

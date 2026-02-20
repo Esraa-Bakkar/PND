@@ -1,0 +1,56 @@
+# ----------------------
+# Global / OS Files
+# ----------------------
+Thumbs.db
+.DS_Store
+.history
+.svn
+.idea
+.vscode
+
+# ----------------------
+# Backend (.NET & Python)
+# ----------------------
+# .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Python / AI
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+env/
+.pytest_cache/
+
+# ----------------------
+# Frontend (Flutter)
+# ----------------------
+# Flutter/Dart/Pub
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+
+build/
+coverage/
+
+# Android
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# Symbolication
+app.*.symbols
+
+# Obfuscation
+app.*.map.json
