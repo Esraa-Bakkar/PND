@@ -32,6 +32,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
+    <Content Include="saved_models\densenet_pneumonia.h5" />
+    <Content Include="saved_models\models_config.json" />
     <Content Include="saved_models\pneumonia_model.h5" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

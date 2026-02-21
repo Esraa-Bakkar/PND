@@ -1,0 +1,29 @@
+{
+  "active_model": "densenet_v1",
+  "models": {
+    "densenet_v1": {
+      "model_name": "densenet_pneumonia.h5",
+      "color_mode": "RGB",
+      "target_size": [ 224, 224 ],
+      "reshape_channels": 3,
+      "normalization_factor": 255.0,
+      "threshold": 0.5,
+      "labels": {
+        "above_threshold": "Pneumonia",
+        "below_threshold": "Normal"
+      }
+    },
+    "simple_cnn_v1": {
+      "model_name": "pneumonia_model.h5",
+      "color_mode": "L",
+      "target_size": [ 150, 150 ],
+      "reshape_channels": 1,
+      "normalization_factor": 255.0,
+      "threshold": 0.5,
+      "labels": {
+        "above_threshold": "Normal",
+        "below_threshold": "Pneumonia"
+      }
+    }
+  }
+}
